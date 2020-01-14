@@ -1,5 +1,5 @@
 # motion-heatmap-opencv
-A repository to store codes and supportive material to the omonimous Medium article.
+A repository to store codes and supportive material to the omonimous [Medium](https://medium.com/p/fd806e8a2340) article.
 
 ![](./heatmap_gif.gif)
 
