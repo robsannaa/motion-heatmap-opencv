@@ -1,5 +1,6 @@
 # motion-heatmap-opencv
 A repository to store codes and supportive material to the omonimous [Medium](https://medium.com/p/fd806e8a2340) article.
+This code is an adaptation of the [Intel Motion Heatmap](https://github.com/intel-iot-devkit/python-cv-samples/tree/master/examples/motion-heatmap)
 
 ![](./heatmap_gif.gif)
 
